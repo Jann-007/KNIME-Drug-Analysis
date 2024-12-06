@@ -65,7 +65,7 @@ This project highlights the potential of computational tools in drug discovery, 
 ### **How to Use**  
 1. Clone this repository:  
    ```bash  
-   git clone 
+   git clone https://github.com/Jann-007/KNIME-Drug-Analysis
    ```  
 2. Follow the instructions in the **workflow/README.md** to set up and execute the KNIME workflows.  
 3. Review the results and visualizations in their respective directories.  
